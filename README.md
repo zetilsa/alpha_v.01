@@ -1,4 +1,4 @@
-# 🎙️ Indonesian Voice Assistant
+# 🎙️ Alpha Voice Assistant
 
 An Indonesian-language voice assistant written in Python, able to listen for voice commands and execute simple tasks like opening websites, taking screenshots, managing task lists, and speaking responses using text-to-speech.
 
